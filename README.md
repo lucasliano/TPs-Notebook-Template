@@ -1,13 +1,3 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
-
-<!-- PROJECT LOGO -->
 <br />
 <p align="center">
   <a href="https://github.com/l/TPs-Notebook-Template">
@@ -22,7 +12,7 @@
     <a href="https://github.com/lucasliano/TPs-Notebook-Template"><strong>Explore</strong></a>
     <br />
     <br />
-    <a href="https://github.com/lucasliano/TPs-Notebook-Template/blob/master/Notebook template/Main.ipynb">View Demo</a>
+    <a href="https://github.com/lucasliano/TPs-Notebook-Template/blob/master/NotebookTemplate/Main.ipynb">View Demo</a>
     ·
     <a href="https://github.com/lucasliano/TPs-Notebook-Template/issues">Report Bug</a>
     ·
@@ -60,7 +50,7 @@
 
 This is a simple template used in many assignments. It may look like this,
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/lucasliano/TPs-Notebook-Template/blob/master/Notebook template/Main.ipynb)
+[![Product Name Screen Shot][product-screenshot]](https://github.com/lucasliano/TPs-Notebook-Template/blob/master/NotebookTemplate/Main.ipynb)
 
 
 
@@ -82,7 +72,7 @@ If you use conda, you can install it with:
 
 If you use pip, you can install it with:
 
-* conda
+* pip
   ```sh
   pip install jupyterlab
   ```
