@@ -4,7 +4,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Jupyter Notebook Template fo</h3>
+  <h3 align="center">Jupyter Notebook Template</h3>
 
   <p align="center">
     This is a jupyter notebook template. The goal of this template is to incorporate all the resources available in terms of markdown notation as well as python common libraries. 
